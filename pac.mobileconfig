@@ -1,1 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
 
+			<key>PayloadDisplayName</key>
+			<string>Global HTTP Proxy</string>
+
+			<key>PayloadIdentifier</key>
+			
+			<string>com.apple.proxy.http.global.d8adb07a-8fff-11ea-bc55-0242ac130003</string>
+
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+
+			
+			<key>PayloadUUID</key>
+			<string>d8adb2aa-8fff-11ea-bc55-0242ac130003</string>
+
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
+
+			<key>ProxyPACURL</key>
+			
+			<string>https://raw.githubusercontent.com/travis98/easylist-pac-privoxy/master/proxy.pac</string>
+
+			<key>ProxyType</key>
+			<string>Auto</string>
+		</dict>
+	</array>
+
+	<key>PayloadDisplayName</key>
+	
+	<string>Travis98List</string>
+	
+	<key>PayloadIdentifier</key>
+	
+	<string>travis9.proxy d8adb2aa-8fff-11ea-bc55-0242ac130003</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadUUID</key>
+	
+	<string>d8adb3a4-8fff-11ea-bc55-0242ac130003</string>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
